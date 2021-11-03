@@ -1,3 +1,5 @@
+![banner](https://github.com/pierclgr/pierclgr/images/banner.png)
+
 ### Hi there 👋
 
 <!--
