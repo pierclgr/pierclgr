@@ -32,9 +32,11 @@
   - 🛴 I own an electric scooter and I love it
   -  🏎 I started watching Formula 1 three years ago and since then I never stopped (forza Ferrari)
 
+<br>
+
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pierclgr&show_icons=true&count_private=true&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierclgr&&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=pierclgr&show_icons=true&count_private=true&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierclgr&&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543&layout=compact">
 </div>
 
 <br>
