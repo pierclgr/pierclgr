@@ -32,22 +32,10 @@
   - 🛴 I own an electric scooter and I love it
   -  🏎 I started watching Formula 1 three years ago and since then I never stopped (forza Ferrari)
 
-<br>
-<table style="border:none;">
-  <tr>
-   <td>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pierclgr&show_icons=true&count_private=true&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543" />
-    </a>
-   </td>
-   <td>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierclgr&&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543&layout=compact" />
-    </a>
-   </td>
-  </tr>
-
-</table> 
+<div align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pierclgr&show_icons=true&count_private=true&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierclgr&&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543&layout=compact" />
+</div>
 
 <br>
 
