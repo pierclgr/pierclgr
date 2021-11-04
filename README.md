@@ -24,15 +24,16 @@
 
 - 💬 Ask me about anything, I'm very curious in meeting people and collaborating to projects
 
+- 👨🏻‍💻 All my projects are available in my [GitHub](https://github.com/pierclgr?tab=repositories)
+
 - ⚡ Fun facts:
   - 🥋 I used to be a karateka during my teenage years
   - 👔 I'm obsessed with fragrances
   - 🛴 I own an electric scooter and I love it
   -  🏎 I started watching Formula 1 three years ago and since then I never stopped (forza Ferrari)
 
----
-
-<table>
+<br>
+<table style="border:none;">
   <tr>
    <td>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -48,6 +49,7 @@
 
 </table> 
 
+<br>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pierclgr&label=Profile views&color=ef8543&style=flat" alt="pierclgr" />
