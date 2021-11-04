@@ -34,10 +34,22 @@
 
 <br>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pierclgr&show_icons=true&count_private=true&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierclgr&&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543&layout=compact">
-</div>
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=pierclgr&show_icons=true&count_private=true&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierclgr&&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543&layout=compact">
+        </td>
+    </tr>
+</table>
 
 <br>
 
