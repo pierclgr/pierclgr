@@ -3,21 +3,6 @@
 <h1 align="center"><b>Hey there, I'm Pier</b> <img src="https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/wave.gif" alt="waving_gif" width="30px"> </h2>
 <br>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=pierclgr&label=Profile views&color=ef8543&style=flat" alt="pierclgr" />
-</p>
-<p align="center">
-<a href="https://www.instagram.com/pierclgr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/pierclgr/Personal-Website/master/icons/social-icons/instagram-logo-orange.svg" alt="pierclgr" height="30px" width="30px"/></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/pierclgr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/pierclgr/Personal-Website/master/icons/social-icons/linkedin-logo-orange.svg" alt="pierclgr" height="25px" width="25px"/></a>
-&nbsp;&nbsp;
-<a href="mailto:pierpasquale.colagrande@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/pierclgr/Personal-Website/master/icons/social-icons/mail-orange.svg" alt="pierclgr" height="30px" width="30px"/></a>
-</p>
-
-<br>
-
-<h2 align="center">🙋🏻‍♂️ <b>About me</b></h2>
-
 - 🙋🏻‍♂️ My full name is [Pierpasquale](https://www.pierpasqualecolagrande.com/#about), but everbody calls me Pier _\*daft punk song starts playing\*_ 
 
 - 🏠 I'm from Conversano, a small town in South Italy 🇮🇹
@@ -69,6 +54,22 @@
 - 📄 I'm in Unibo's AI Journal Club, a paper reading club in which we read research papers in various fields (e.g. AI, neuroscience)
 
 - 📄 My bachelor thesis got published, you can find the [paper here](https://doi.org/10.3390/electronics8121478) and the [code here](https://github.com/pierclgr/CRISPRLearner)
+
+<br>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pierclgr&label=Profile views&color=ef8543&style=flat" alt="pierclgr" />
+</p>
+<p align="center">
+<a href="https://www.instagram.com/pierclgr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/pierclgr/Personal-Website/master/icons/social-icons/instagram-logo-orange.svg" alt="pierclgr" height="30px" width="30px"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pierclgr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/pierclgr/Personal-Website/master/icons/social-icons/linkedin-logo-orange.svg" alt="pierclgr" height="25px" width="25px"/></a>
+&nbsp;&nbsp;
+<a href="mailto:pierpasquale.colagrande@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/pierclgr/Personal-Website/master/icons/social-icons/mail-orange.svg" alt="pierclgr" height="30px" width="30px"/></a>
+</p>
+
+<br>
+
 
 
 
