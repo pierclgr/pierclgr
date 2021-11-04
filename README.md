@@ -16,7 +16,7 @@
 
 - ✏️ I'm very passionate about UI/UX and design in general
 
-- ✏️ My design passion meets perfectly my web developing skills
+- 💻 My design passion meets perfectly my web developing skills
 
 - 📖 In my free time I listen to music, read books and push the hell out of gym weights
 
