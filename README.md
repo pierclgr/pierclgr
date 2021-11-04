@@ -1,6 +1,6 @@
 [![Description banner](https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/banner_dark.png)](https://www.pierpasqualecolagrande.com)
 
-### **Hey there, I'm Pier** <img src="https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/wave.gif" alt="waving_gif" width="25px">
+# **Hey there, I'm Pier** <img src="https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/wave.gif" alt="waving_gif" width="25px">
 
 - 🙋🏻‍♂️ My full name is [Pierpasquale](https://www.pierpasqualecolagrande.com/#about), but everbody calls me Pier _\*daft punk song starts playing\*_ 
 
@@ -31,18 +31,20 @@
   - 👔 I'm obsessed with fragrances
   - 🛴 I own an electric scooter and I love it
   -  🏎 I started watching Formula 1 three years ago and since then I never stopped (forza Ferrari)
+  
 
-
+## 📊 **GitHub Stats**
 
 | My GitHub Stats | My Most Used Languages |
 |------------|------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=pierclgr&show_icons=true&count_private=true&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierclgr&&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543&layout=compact">|
+|<img src="https://github-readme-stats.vercel.app/api?username=pierclgr&show_icons=true&count_private=true&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543" alt="pierclgr github stats"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierclgr&&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543&layout=compact" alt="pierclgr most used languages stats">|
 
-<br>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pierclgr&label=Profile views&color=ef8543&style=flat" alt="pierclgr" />
 </p>
+
+## 💬 **Contact Info**
 <p align="center">
 <a href="https://www.instagram.com/pierclgr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/pierclgr/Personal-Website/master/icons/social-icons/instagram-logo-orange.svg" alt="pierclgr" height="30px" width="30px"/></a>
 &nbsp;&nbsp;
