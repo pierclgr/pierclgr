@@ -1,4 +1,4 @@
-[![Description banner](https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/banner_dark.png)](www.pierpasqualecolagrande.com)
+[![Description banner](https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/banner_dark.png)](https://www.pierpasqualecolagrande.com)
 
 ### Hi there 👋
 
