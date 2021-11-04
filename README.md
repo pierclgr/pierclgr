@@ -1,7 +1,6 @@
 [![Description banner](https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/banner_dark.png)](https://www.pierpasqualecolagrande.com)
 
 <h1 align="center"><b>Hey there, I'm Pier</b> <img src="https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/wave.gif" alt="waving_gif" width="30px"> </h2>
-<br>
 
 - 🙋🏻‍♂️ My full name is [Pierpasquale](https://www.pierpasqualecolagrande.com/#about), but everbody calls me Pier _\*daft punk song starts playing\*_ 
 
