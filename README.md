@@ -8,17 +8,17 @@
 
 - 📍 I currently live in Bologna, Italy
 
+- 🎓 I'm currently pursuing MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
+
 - 🔭 I’m currently working on [Super Resolution](https://www.github.com/pierclgr/SuperResolution)
 
-- 🌱 I'm currently learning **Deep Learning** and its applications (e.g. Natural Language Processing, Computer Vision, Reinforcement Learning)
+- 🌱 I'm currently learning **Deep Learning** and its applications
 
-- ✏️ I'm very passionate about UI/UX and design in general (e.g. graphic, logos)
+- ✏️ I'm very passionate about UI/UX and visual design in general
 
-- ✏️ This passion for design meets perfectly my web developing skills
+- ✏️ My design passion meets perfectly my web developing skills
 
-- 📖 In my free time I search for new music to jam to (my tastes are complicated), read books and push the hell out of gym weights
-
-- 🏎 I started watching Formula 1 three years ago and since then I never stopped (forza Ferrari)
+- 📖 In my free time I listen to music, read books and push the hell out of gym weights
 
 - 📫 You can reach me on [Instagram](https://www.instagram.com/pierclgr), [Linkedin](https://www.linkedin.com/in/pierclgr/) or via [mail](mailto:pierpasquale.colagrande@gmail.com)
 
@@ -28,33 +28,26 @@
   - 🥋 I used to be a karateka during my teenage years
   - 👔 I'm obsessed with fragrances
   - 🛴 I own an electric scooter and I love it
-
----
-### 🎓 **Education**
-
-- 🎓 Currently pursuing MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
-
-- 🎓 BSc in Computer Science at [University of Bari, Italy](https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/corsi/informatica/cds-informatica) 
-
-- 🎓 High school diploma in IT at ITIS Luigi Dell'Erba in [Castellana Grotte, Italy](https://www.luigidellerba.edu.it)
+  -  🏎 I started watching Formula 1 three years ago and since then I never stopped (forza Ferrari)
 
 ---
 
-### 👨🏻‍💻 **Work experience**
+<table>
+  <tr>
+   <td>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pierclgr&show_icons=true&count_private=true&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543" />
+    </a>
+   </td>
+   <td>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierclgr&&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543&layout=compact" />
+    </a>
+   </td>
+  </tr>
 
-- 👨🏻‍💻 Freelance web designer and developer
+</table> 
 
----
-
-### 📝 **Activities** 
-
-- 💻 I'm in Unibo's Google Developer Student Club, in which we learn about new technologies with Google's help 
-
-- 📄 I'm in Unibo's AI Journal Club, a paper reading club in which we read research papers in various fields (e.g. AI, neuroscience)
-
-- 📄 My bachelor thesis got published, you can find the [paper here](https://doi.org/10.3390/electronics8121478) and the [code here](https://github.com/pierclgr/CRISPRLearner)
-
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pierclgr&label=Profile views&color=ef8543&style=flat" alt="pierclgr" />
@@ -66,11 +59,6 @@
 &nbsp;&nbsp;
 <a href="mailto:pierpasquale.colagrande@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/pierclgr/Personal-Website/master/icons/social-icons/mail-orange.svg" alt="pierclgr" height="30px" width="30px"/></a>
 </p>
-
-<br>
-
-
-
 
 <!--
 **pierclgr/pierclgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
