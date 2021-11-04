@@ -4,7 +4,7 @@
 
 - 🙋🏻‍♂️ My full name is [Pierpasquale](https://www.pierpasqualecolagrande.com/#about), but everbody calls me Pier _\*daft punk song starts playing\*_ 
 
-- 🏠 I'm from Conversano, a small town in South Italy 🇮🇹
+- 🏠 I'm from Italy 🇮🇹
 
 - 📍 I currently live in Bologna, Italy
 
