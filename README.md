@@ -1,6 +1,6 @@
 [![Description banner](https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/banner_dark.png)](https://www.pierpasqualecolagrande.com)
 
-### Hi there 👋
+## Hey there, curious visitor <img src="https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/wave.png" width="30px">
 
 <!--
 **pierclgr/pierclgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
