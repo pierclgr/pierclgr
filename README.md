@@ -14,7 +14,7 @@
 
 - 🌱 I'm currently learning **Deep Learning** and its applications
 
-- ✏️ I'm very passionate about UI/UX and visual design in general
+- ✏️ I'm very passionate about UI/UX and design in general
 
 - ✏️ My design passion meets perfectly my web developing skills
 
