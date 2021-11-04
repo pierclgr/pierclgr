@@ -1,6 +1,6 @@
 [![Description banner](https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/banner_dark.png)](https://www.pierpasqualecolagrande.com)
 
-<h3 align="center"><b>Hey there, I'm Pier</b> <img src="https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/wave.gif" alt="waving_gif" width="30px"> </h2>
+<h2 align="center"><b>Hey there, I'm Pier</b> <img src="https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/wave.gif" alt="waving_gif" width="25px"> </h2>
 
 - 🙋🏻‍♂️ My full name is [Pierpasquale](https://www.pierpasqualecolagrande.com/#about), but everbody calls me Pier _\*daft punk song starts playing\*_ 
 
@@ -14,7 +14,7 @@
 
 - ✏️ I'm very passionate about UI/UX and design in general (e.g. graphic, logos)
 
-- ✏️ I'm a web developer (and designer)
+- ✏️ This passion for design meets perfectly my web developing skills
 
 - 📖 In my free time I search for new music to jam to (my tastes are complicated), read books and push the hell out of gym weights
 
@@ -29,7 +29,9 @@
   - 👔 I'm obsessed with fragrances
   - 🛴 I own an electric scooter and I love it
 
-<h3 align="center">🎓 <b>Education</b></h2>
+<br>
+
+<h2 align="center">🎓 <b>Education</b></h2>
 
 - 🎓 Currently pursuing MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
@@ -37,13 +39,16 @@
 
 - 🎓 High school diploma in IT at ITIS Luigi Dell'Erba in [Castellana Grotte, Italy](https://www.luigidellerba.edu.it)
 
+<br>
 
-<h3 align="center">👨🏻‍💻 <b>Work experience</b></h2>
+<h2 align="center">👨🏻‍💻 <b>Work experience</b></h2>
 
 
 - 👨🏻‍💻 Freelance web designer and developer
 
-<h3 align="center">📝 <b>Activities</b></h2>
+<br>
+
+<h2 align="center">📝 <b>Activities</b></h2>
 
 - 💻 I'm in Unibo's Google Developer Student Club, in which we learn about new technologies with Google's help 
 
