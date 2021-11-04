@@ -1,6 +1,6 @@
 [![Description banner](https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/banner_dark.png)](https://www.pierpasqualecolagrande.com)
 
-<h2 align="center"><b>Hey there, I'm Pier</b> <img src="https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/wave.gif" alt="waving_gif" width="25px"> </h2>
+### **Hey there, I'm Pier** <img src="https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/wave.gif" alt="waving_gif" width="25px">
 
 - 🙋🏻‍♂️ My full name is [Pierpasquale](https://www.pierpasqualecolagrande.com/#about), but everbody calls me Pier _\*daft punk song starts playing\*_ 
 
@@ -29,9 +29,8 @@
   - 👔 I'm obsessed with fragrances
   - 🛴 I own an electric scooter and I love it
 
-<br>
-
-<h2 align="center">🎓 <b>Education</b></h2>
+---
+### 🎓 **Education**
 
 - 🎓 Currently pursuing MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
@@ -39,16 +38,15 @@
 
 - 🎓 High school diploma in IT at ITIS Luigi Dell'Erba in [Castellana Grotte, Italy](https://www.luigidellerba.edu.it)
 
-<br>
+---
 
-<h2 align="center">👨🏻‍💻 <b>Work experience</b></h2>
-
+### 👨🏻‍💻 **Work experience**
 
 - 👨🏻‍💻 Freelance web designer and developer
 
-<br>
+---
 
-<h2 align="center">📝 <b>Activities</b></h2>
+### 📝 **Activities** 
 
 - 💻 I'm in Unibo's Google Developer Student Club, in which we learn about new technologies with Google's help 
 
@@ -56,7 +54,7 @@
 
 - 📄 My bachelor thesis got published, you can find the [paper here](https://doi.org/10.3390/electronics8121478) and the [code here](https://github.com/pierclgr/CRISPRLearner)
 
-<br>
+---
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pierclgr&label=Profile views&color=ef8543&style=flat" alt="pierclgr" />
