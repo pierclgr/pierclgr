@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Super Resolution](https://www.github.com/pierclgr/SuperResolution)
 
-- 🌱 I'm currently learning **Deep Learning** and its applications
+- 🌱 I'm currently learning **Machine Learning applied to Computer Vision**
 
 - ✏️ I'm very passionate about UI/UX and design in general
 
