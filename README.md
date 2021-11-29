@@ -27,6 +27,7 @@
 - 👨🏻‍💻 All my projects are available in my [GitHub](https://github.com/pierclgr?tab=repositories)
 
 - ⚡ Fun facts:
+  - 🍿 Food of the month: caramel popcorn
   - 🥋 I used to be a karateka during my teenage years
   - 👔 I'm obsessed with fragrances
   - 🛴 I own an electric scooter and I love it
