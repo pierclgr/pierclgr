@@ -40,7 +40,7 @@
 
 | My GitHub Stats | My Most Used Languages |
 |------------|------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=pierclgr&show_icons=true&count_private=true&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543" alt="pierclgr github stats"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierclgr&&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543&layout=compact&hide=jupyter%20notebook" alt="pierclgr most used languages stats">|
+|<img src="https://github-readme-stats.vercel.app/api?username=pierclgr&show_icons=true&count_private=true&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543" alt="pierclgr github stats"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierclgr&&title_color=ef8543&text_color=fefcfb&bg_color=262626&hide_border=1&locale=en&icon_color=ef8543&layout=compact" alt="pierclgr most used languages stats">|
   
 </div>
 
