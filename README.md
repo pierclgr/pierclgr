@@ -18,7 +18,7 @@
 
 - 💻 My design passion meets perfectly my web developing skills
 
-- 📖 In my free time I listen to music, read books and push the hell out of gym weights
+- 📖 In my free time I watch movies, train in gym, play videogames, read books and listen to a ton of music
 
 - 📫 You can reach me on [Instagram](https://www.instagram.com/pierclgr), [Linkedin](https://www.linkedin.com/in/pierclgr/) or via [mail](mailto:pierpasquale.colagrande@gmail.com)
 
