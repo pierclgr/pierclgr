@@ -2,36 +2,29 @@
 
 # **Hey there, I'm Pier** <img src="https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/wave.gif" alt="waving_gif" width="25px">
 
-- 🙋🏻‍♂️ My full name is [Pierpasquale](https://www.pierpasqualecolagrande.com/#about), but everbody calls me Pier _\*daft punk song starts playing\*_ 
+- 🙋🏻‍♂️ My name is [Pierpasquale](https://www.pierpasqualecolagrande.com/#about), but everybody calls me Pier
 
-- 🏠 I'm from Italy 🇮🇹
+- 🏠 I'm a 25yo, southern Italian dreamer 🇮🇹
 
-- 📍 I currently live in Bologna, Italy
+- 📍 I live in Bologna, Italy
 
 - 🎓 I'm currently pursuing MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
-- 🔭 I’m currently working on [Super Resolution](https://www.github.com/pierclgr/SuperResolution)
+- 🔭 I’m currently working on [Ontologies for musical heritage](https://www.github.com/pierclgr/Opera-Music-Ontology)
 
-- 🌱 I'm currently learning **Machine Learning applied to Computer Vision**
+- 🌱 I'm currently learning **Image Processing and Computer Vision**
 
-- ✏️ I'm very passionate about UI/UX and design in general
-
-- 💻 My design passion meets perfectly my web developing skills
-
-- 📖 In my free time I watch movies, train in gym, play videogames, read books and listen to a ton of music
+- ✏️  AI is my life partner, but I have an affair with web development while having a crush on design
 
 - 📫 You can reach me on [Instagram](https://www.instagram.com/pierclgr), [Linkedin](https://www.linkedin.com/in/pierclgr/) or via [mail](mailto:pierpasquale.colagrande@gmail.com)
 
 - 💬 Ask me about anything, I'm very curious in meeting people and collaborating to projects
 
-- 👨🏻‍💻 All my projects are available in my [GitHub](https://github.com/pierclgr?tab=repositories)
-
 - ⚡ Fun facts:
-  - 🍿 Food of the month: caramel popcorn
   - 🥋 I used to be a karateka during my teenage years
-  - 👔 I'm obsessed with fragrances
-  - 🛴 I own an electric scooter and I love it
-  -  🏎 I started watching Formula 1 three years ago and since then I never stopped (forza Ferrari)
+  - 👔 I have a collection of fragrances
+  - 🛴 I own an electric scooter
+  - 🏎 I'm a huge Formula 1 fan (forza Ferrari)
   
 
 ## 📊 **GitHub Stats**
