@@ -14,7 +14,7 @@
 
 - 🌱 I'm currently learning **Computer Vision**
 
-- ✏️  AI is my life partner, but I have an affair with web development while having a crush on design
+- ✏️  AI is my life partner, but I have an affair with web development while having a crush on graphic design
 
 - 📫 You can reach me on [Instagram](https://www.instagram.com/pierclgr), [Linkedin](https://www.linkedin.com/in/pierclgr/) or via [mail](mailto:pierpasquale.colagrande@gmail.com)
 
