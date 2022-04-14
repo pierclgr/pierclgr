@@ -26,7 +26,7 @@
   - 🥋 I used to be a karateka during my teenage years
   - 👔 I have a collection of fragrances
   - 🛴 I own an electric scooter
-  - 🏎 I'm a huge Formula 1 fan (forza Ferrari)
+  - 🏎 I'm a diehard Formula 1 fan (forza Ferrari)
   
 
 ## 📊 **GitHub Stats**
