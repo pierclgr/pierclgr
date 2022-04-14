@@ -6,11 +6,13 @@
 
 - 🏠 I'm a 25 yo southern Italian daydreamer 🇮🇹
 
-- 📍 I live in Bologna, Italy
+- 📍 I live in Stockholm, Sweden
 
 - 🎓 I'm currently pursuing MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
-- 🔭 I’m currently working on [ontologies for musical heritage](https://www.github.com/pierclgr/Opera-Music-Ontology)
+- 👨🏻‍💻 I'm a Master Thesis Student in Deep Learning at [Univrses](https://www.univrses.com/)
+
+- 🔭 I’m currently working on [Deep Learning for Super Resolution](https://github.com/pierclgr/SuperResolution)
 
 - 🌱 I'm currently learning **Computer Vision**
 
