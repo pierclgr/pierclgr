@@ -2,7 +2,7 @@
 
 # **Hey there, I'm Pier** <img src="https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/wave.gif" alt="waving_gif" width="25px">
 
-- 🙋🏻‍♂️ My full name is [Pierpasquale](https://www.pierpasqualecolagrande.com/#about), but everbody calls me Pier _\*daft punk song starts playing\*_ 
+- 🙋🏻‍♂️ My name is [Pierpasquale](https://www.pierpasqualecolagrande.com/#about), but everbody calls me Pier _\*daft punk song starts playing\*_ 
 
 - 🏠 I'm a 25 yo southern Italian daydreamer 🇮🇹
 
