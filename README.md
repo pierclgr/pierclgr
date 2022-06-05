@@ -1,6 +1,6 @@
 [![Description banner](https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/banner_dark.png)](https://www.pierpasqualecolagrande.com)
 
-# **Hey there, I'm Pier** <img src="https://raw.githubusercontent.com/pierclgr/pierclgr/main/images/wave.gif" alt="waving_gif" width="10px">
+# **Hey there, I'm Pier** 👋
 
 - 🙋🏻‍♂️ My name is [Pierpasquale](https://www.pierpasqualecolagrande.com/#about), but everbody calls me Pier _\*daft punk song starts playing\*_ 
 
