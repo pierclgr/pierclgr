@@ -6,7 +6,9 @@
 
 - 🏠 I'm a 25 yo southern Italian daydreamer 🇮🇹
 
-- 📍 I live in Stockholm, Sweden
+- 👣 I lived in Bologna for my MSc and in Stockholm for my master thesis
+
+- 📍 I currently live in Conversano, Italy
 
 - 🎓 I'm currently pursuing MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
@@ -14,7 +16,7 @@
 
 - 🔭 I’m currently working on [Deep Learning for Super Resolution](https://github.com/pierclgr/SuperResolution)
 
-- 🌱 I'm currently learning **Computer Vision**
+- 🌱 I'm currently learning **Reinforcement Learning**
 
 - ✏️  AI is my life partner, but I have an affair with web development while having a crush on design
 
