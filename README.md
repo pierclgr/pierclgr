@@ -14,7 +14,7 @@
 
 - 👨🏻‍💻 I'm a Master Thesis Student in Deep Learning at [Univrses, Stockholm](https://www.univrses.com/)
 
-- 🔭 I’m currently working on [Deep Learning for Super Resolution](https://github.com/pierclgr/SuperResolution)
+- 🔭 I’m currently working on [Deep Reinforcement Learning for Atari games](https://github.com/pierclgr/Atari-Deep-RL)
 
 - 🌱 I'm currently learning **Reinforcement Learning**
 
