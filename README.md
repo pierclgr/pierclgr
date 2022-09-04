@@ -14,9 +14,9 @@
 
 - 👨🏻‍💻 I'm a Master Thesis Student in Deep Learning at [Univrses, Stockholm](https://www.univrses.com/)
 
-- 🔭 I’m currently working on [Deep Reinforcement Learning for Atari games](https://github.com/pierclgr/Atari-Deep-RL)
+- 🔭 I’m currently working on [Super Resolution](https://github.com/pierclgr/SuperResolution)
 
-- 🌱 I'm currently learning **Reinforcement Learning**
+- 🌱 I'm currently learning **Machine Learning in Computer Vision**
 
 - ✏️  AI is my life partner, but I have an affair with web development while having a crush on design
 
