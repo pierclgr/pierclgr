@@ -12,8 +12,6 @@
 
 - 🎓 I'm currently pursuing MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
-- 👨🏻‍💻 I'm a Master Thesis Student in Deep Learning at [Univrses, Stockholm](https://www.univrses.com/)
-
 - 🔭 I’m currently working on [Super Resolution](https://github.com/pierclgr/SuperResolution)
 
 - 🌱 I'm currently learning **Machine Learning in Computer Vision**
@@ -26,7 +24,6 @@
 
 - ⚡ Fun facts:
   - 🥋 I used to be a karateka during my teenage years
-  - 👔 I have a collection of fragrances
   - 🛴 I own an electric scooter
   - 🏎 I'm a diehard Formula 1 fan (forza Ferrari)
   
