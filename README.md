@@ -12,11 +12,11 @@
 
 - 🎓 I'm currently pursuing MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
-- 🔭 I’m currently working on [Super Resolution](https://github.com/pierclgr/SuperResolution)
+<!-- - 🔭 I’m currently working on [Super Resolution](https://github.com/pierclgr/SuperResolution) -->
 
-- 🌱 I'm currently learning **Machine Learning in Computer Vision**
+- 🌱 I'm currently learning **Image Processing and Computer Vision**
 
-- ✏️  AI is my life partner, but I have an affair with web development while having a crush on design
+- ✏️  I study AI, but I also have a thing for design and a passion for web development
 
 - 📫 You can reach me on [Instagram](https://www.instagram.com/pierclgr), [Linkedin](https://www.linkedin.com/in/pierclgr/) or via [mail](mailto:pierpasquale.colagrande@gmail.com)
 
