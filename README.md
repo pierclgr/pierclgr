@@ -16,7 +16,7 @@
 
 - 🌱 I'm currently learning **Image Processing and Computer Vision**
 
-- ✏️  I study AI, but I also have a thing for design and a passion for web development
+- ✏️  I study AI, but I also have a thing for design and a passion for front-end development
 
 - 📫 You can reach me on [Instagram](https://www.instagram.com/pierclgr), [Linkedin](https://www.linkedin.com/in/pierclgr/) or via [mail](mailto:pierpasquale.colagrande@gmail.com)
 
