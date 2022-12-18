@@ -22,7 +22,7 @@
 
 - 💬 Ask me about anything, I'm very curious in meeting people and collaborating to projects
 
-- 🔎 I'm someone who loves exploring "alternative paths", therefore I never encounter any obstacle in finding new interesting passions or hobbies, that's why I try to dedicate part of my free time to learning something new unrelated to my professional path
+- 🔎 I always find new interesting passions or hobbies, that's why I try to dedicate part of my free time to learning something new unrelated to my professional path
 
 - ⚡ Fun facts:
   - 🥋 I used to be a karateka during my teenage years
