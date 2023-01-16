@@ -14,7 +14,7 @@
 
 <!-- - 🔭 I’m currently working on [Super Resolution](https://github.com/pierclgr/SuperResolution) -->
 
-- 🌱 I'm currently learning **Image Processing and Computer Vision**
+<!-- - 🌱 I'm currently learning **Image Processing and Computer Vision** -->
 
 - 📚  I study AI, but I also have a thing for design and a passion for front-end development
 
