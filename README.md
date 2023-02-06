@@ -10,7 +10,7 @@
 
 - 📍 I currently live in Conversano, Italy
 
-- 🎓 I'm currently pursuing MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
+- 🎓 I'm graduated in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
 <!-- - 🔭 I’m currently working on [Super Resolution](https://github.com/pierclgr/SuperResolution) -->
 
