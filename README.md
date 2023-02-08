@@ -10,7 +10,7 @@
 
 - 📍 I currently live in Conversano, Italy
 
-- 🎓 I have a Bachelor's Degree in Computer Science at [University of Bari, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html](https://www.uniba.it/it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270)
+- 🎓 I have a Bachelor's Degree in Computer Science at [University of Bari, Italy](https://www.uniba.it/it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1)
 
 - 🎓 I have a Master's Degree in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
