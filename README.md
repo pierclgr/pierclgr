@@ -10,13 +10,15 @@
 
 - 📍 I currently live in Conversano, Italy
 
+- 🎓 I have a Bachelor's Degree in Computer Science at [University of Bari, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html](https://www.uniba.it/it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270)
+
 - 🎓 I have a Master's Degree in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
 <!-- - 🔭 I’m currently working on [Super Resolution](https://github.com/pierclgr/SuperResolution) -->
 
 <!-- - 🌱 I'm currently learning **Image Processing and Computer Vision** -->
 
-- 📚  I study AI, but I also have a thing for design and a passion for front-end development
+- 📚  I love AI, but I also have a thing for design and a passion for front-end development
 
 - 📫 You can reach me on [Instagram](https://www.instagram.com/pierclgr), [Linkedin](https://www.linkedin.com/in/pierclgr/) or via [mail](mailto:pierpasquale.colagrande@gmail.com)
 
