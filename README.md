@@ -6,11 +6,11 @@
 
 - 🏠 I'm a 26 yo southern Italian daydreamer 🇮🇹
 
-- 👣 I lived in Bologna for my MSc and in Stockholm for my master thesis
+- 👣 I lived in Bologna for my MSc and in Stockholm for my Master Thesis Project
 
 - 📍 I currently live in Conversano, Italy
 
-- 🎓 I'm graduated in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
+- 🎓 I have a Master's Degree in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
 <!-- - 🔭 I’m currently working on [Super Resolution](https://github.com/pierclgr/SuperResolution) -->
 
