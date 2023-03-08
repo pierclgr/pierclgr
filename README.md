@@ -54,7 +54,7 @@
 <a href="https://www.linkedin.com/in/pierclgr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/pierclgr/Personal-Website/master/icons/social-icons/linkedin-logo-orange.svg" alt="pierclgr" height="25px" width="25px"/></a>
 &nbsp;&nbsp;
 <a href="mailto:pierpasquale.colagrande@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/pierclgr/Personal-Website/master/icons/social-icons/mail-orange.svg" alt="pierclgr" height="30px" width="30px"/></a>
-<a href="https://www.pierpasqualecolagrande.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/pierclgr/Personal-Website/master/icons/logo-orange.svg" alt="pierclgr" height="30px" width="30px" style="margin-left: 10px"/></a>
+<a href="https://www.pierpasqualecolagrande.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/pierclgr/Personal-Website/master/icons/logo-orange.svg" alt="pierclgr" height="30px" width="30px" style="padding-left: 20px;"/></a>
 </p>
 
 <!--
