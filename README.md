@@ -8,7 +8,7 @@
 
 - 👣 I lived in Bologna for my MSc and in Stockholm for my Master Thesis Project
 
-- 📍 I currently live in Conversano, Italy
+- 📍 I currently live in Milano, Italy
 
 - 🎓 I have a Master's Degree in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
