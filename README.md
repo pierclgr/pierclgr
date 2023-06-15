@@ -10,7 +10,7 @@
 
 - 📍 I currently live in Milano, Italy
 
-- 👨🏻‍💻 I'm a Junior Data Scientist at [Lutech](https://lutech.group)
+- 👨🏻‍💻 I'm a Data Scientist at [Lutech](https://lutech.group)
 
 - 🎓 I have a Master's Degree in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
