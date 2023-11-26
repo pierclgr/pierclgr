@@ -20,7 +20,7 @@
 
 <!-- - 🌱 I'm currently learning **Image Processing and Computer Vision** -->
 
-- 📚  I love AI, but I also have a thing for design and a passion for front-end development
+- 📚  I love Computer Vision and AI, but I also have a thing for design and a passion for front-end development
 
 - 📫 You can reach me on [Instagram](https://www.instagram.com/pierclgr), [LinkedIn](https://www.linkedin.com/in/pierclgr/) or via [mail](mailto:pierpasquale.colagrande@gmail.com)
 
