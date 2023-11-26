@@ -46,7 +46,7 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pierclgr&label=Profile views&color=ef8543&style=flat" alt="pierclgr" />
+<img src="https://komarev.com/ghpvc/?username=pierclgr&label=Profile+views&color=ef8543&style=flat" alt="pierclgr" />
 </p>
 
 ## 💬 **Contact Info**
