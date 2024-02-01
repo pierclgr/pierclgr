@@ -10,7 +10,7 @@
 
 - 📍 I currently live in Milano, Italy
 
-- 👨🏻‍💻 I'm a Data Scientist at [Lutech](https://lutech.group)
+- 👨🏻‍💻 I'm an Artificial Intelligence Engineer at [Blimp.ai](http://blimp.ai)
 
 - 🎓 I have a Master's Degree in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
