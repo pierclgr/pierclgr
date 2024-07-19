@@ -4,7 +4,7 @@
 
 - 🙋🏻‍♂️ My name is [Pierpasquale](https://www.pierpasqualecolagrande.com/#about), but everbody calls me Pier _\*daft punk song starts playing\*_ 
 
-- 🏠 I'm a 27 yo southern Italian daydreamer 🇮🇹
+- 🏠 I'm a 28 yo southern Italian daydreamer 🇮🇹
 
 - 👣 I lived in Bologna for my MSc and in Stockholm for my Master Thesis Project
 
