@@ -30,8 +30,8 @@
 
 - ⚡ Fun facts:
   - 🥋 I used to be a karateka during my teenage years
-  - 🛴 I own an electric scooter
-  - 🏎 I'm a diehard Formula 1 fan (forza Ferrari)
+  - 🎾 I play tennis (or try to)
+  - 📸 I'm a photographer (photos [here](https://www.instagram.com/clgraw))
   
 
 ## 📊 **GitHub Stats**
