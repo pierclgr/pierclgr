@@ -6,11 +6,11 @@
 
 - 🏠 I'm a 29 yo southern Italian daydreamer 🇮🇹
 
-- 👣 I lived in Bologna for my MSc and in Stockholm for my Master Thesis Project
+- 👣 I lived in Bologna, Milan and Stockholm
 
-- 📍 I currently live in Milano, Italy
+- 📍 I currently live in Stockholm, Sweden
 
-- 👨🏻‍💻 I'm an Artificial Intelligence Engineer at [blimp.ai](http://blimp.ai)
+- 👨🏻‍💻 I'm a Computer Vision Data Scientist at [Arkion](https://www.arkion.co/)
 
 - 🎓 I have a Master's Degree in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 
@@ -30,8 +30,9 @@
 
 - ⚡ Fun facts:
   - 🥋 I used to be a karateka during my teenage years
+  - 🎨 I'm a creative person, exploring drawing, painting and linocut
   - 🎾 I play tennis (or try to)
-  - 📸 I'm a photographer (photos [here](https://www.instagram.com/clgraw))
+  - 📸 I'm an amateur photographer (photos [here](https://www.instagram.com/clgraw))
   
 
 ## 📊 **GitHub Stats**
